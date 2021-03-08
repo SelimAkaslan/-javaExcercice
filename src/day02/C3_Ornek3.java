@@ -31,7 +31,7 @@ public class C3_Ornek3 {
 		System.out.println("Mailiniz basarili bir sekilde olusturuldu");
 
 		
-
+scan.close();
 	}
 
 	
@@ -57,7 +57,7 @@ public class C3_Ornek3 {
 
 	private static int uzunlukUygunMu(String mail) {
 		int sonucUzunluk=0;
-	       if (mail.length()<6) {
+	       if (mail.length()<=6) {
 	           System.out.println("Mail en az 6 karakter olmalidir");
 	       } else {
 	           sonucUzunluk=1;
