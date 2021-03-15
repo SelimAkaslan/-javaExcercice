@@ -41,6 +41,7 @@ public class C7_Ornek7 {
 			System.out.println("Gecerli bir rakam giriniz");
 			break;
 		}
+		scan.close();
 	}
 
 }
