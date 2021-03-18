@@ -29,6 +29,8 @@ public class C3_Soru3 {
 		}
 		System.out.println(ortakElemanlar);
 		
+		
+		
 	}
 
 }
