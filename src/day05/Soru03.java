@@ -22,7 +22,7 @@ public class Soru03 {
 		System.out.println(islem);
 		
 		
-
+scan.close();
 	}
 
 	public static void islem(String islem,double sayi1,double sayi2) {
