@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Soru6 {
+public class Soru06 {
 
 	public static void main(String[] args) {
 		/*
