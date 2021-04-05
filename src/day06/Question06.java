@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Question06 {
-	
+    /*
+    Verilen String array icerisindeki tekrar eden karakterleri yazdiran Java kodunu yaziniz. 
+    String str=“ilovejavatoo” 
+    Output: o v a
+    */
 	public static void main(String[] args) {
 		String str = new String("ilovejavatoo");
 		ArrayList<Character> charList = new ArrayList<>();
